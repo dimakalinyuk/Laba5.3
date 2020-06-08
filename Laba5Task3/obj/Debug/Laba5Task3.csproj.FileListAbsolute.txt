@@ -1,0 +1,2 @@
+C:\Users\Діма\Desktop\Навчання\1 курс 2 семестр\ООП\Laba5\Laba5Task3\Laba5Task3\obj\Debug\Laba5Task3.csprojAssemblyReference.cache
+C:\Users\Діма\Desktop\Навчання\1 курс 2 семестр\ООП\Laba5\Laba5Task3\Laba5Task3\obj\Debug\Laba5Task3.csproj.CoreCompileInputs.cache
